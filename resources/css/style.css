@@ -1,0 +1,25 @@
+*{
+    background-color: #FFCB05;
+}
+h1 {
+    font-size: 2.5rem;
+    color: #003A70;
+    font-weight: 600;
+    }
+    
+    h2 {
+    font-size: 2rem;
+    color: #3D7DCA;
+    }
+    
+    h3 {
+    font-size: 1.5rem;
+    color: #003A70;
+    }
+    
+    a {
+    background-color: #FFCB05;
+    color: #3D7DCA;
+    text-decoration: none;
+    padding: 20px;
+    }
