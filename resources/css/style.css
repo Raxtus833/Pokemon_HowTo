@@ -6,7 +6,7 @@ h1 {
     font-size: 2.5rem;
     color: #000000;
     font-weight: 800;
-    font-family: fantasy;
+    font-family: cursive;
     }
     
 h2 {
@@ -14,7 +14,7 @@ h2 {
     font-size: 2rem;
     color: #000000;
     font-weight: 700;
-    font-family: fantasy;
+    font-family: cursive;
     }
     
 h3 {
@@ -22,7 +22,7 @@ h3 {
     font-size: 1.5rem;
     color: #000000;
     font-weight: 600;
-    font-family: fantasy;
+    font-family: cursive;
     }
     
     /* todo:  see if I can make the buttons round */
@@ -33,12 +33,12 @@ a {
     text-decoration: none;
     font-weight: 500;
     padding: 2px;
-    font-family: fantasy;
+    font-family: cursive;
     }
 p {
     background-color: #FDFCBE;
     color: #000000;
     text-decoration: none;
     font-weight: 500;
-    font-family: fantasy;
+    font-family: cursive;
     }
