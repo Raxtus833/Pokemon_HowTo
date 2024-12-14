@@ -1,27 +1,45 @@
 *{
-    background-color: #FFCB05;
+    background-color: #E9E9D3;
 }
 h1 {
+    background-color: #FDFCBE;
     font-size: 2.5rem;
-    color: #003A70;
-    font-weight: 600;
+    color: #000000;
+    font-weight: 800;
+    font-family: fantasy;
     }
     
-    h2 {
+h2 {
+    background-color: #FDFCBE;
     font-size: 2rem;
-    color: #3D7DCA;
+    color: #000000;
+    font-weight: 700;
+    font-family: fantasy;
     }
     
-    h3 {
+h3 {
+    background-color: #FDFCBE;
     font-size: 1.5rem;
-    color: #003A70;
+    color: #000000;
+    font-weight: 600;
+    font-family: fantasy;
     }
     
     /* todo:  see if I can make the buttons round */
 
-    a {
-    background-color: #3D7DCA;
-    color: #FFCB05;
+a {
+    background-color: #FDFCBE;
+    color: #000000;
     text-decoration: none;
-    padding: 20px;
+    font-weight: 500;
+    padding: 5px;
+    font-family: fantasy;
+    }
+p {
+    background-color: #FDFCBE;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 5px;
+    font-family: fantasy;
     }
