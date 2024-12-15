@@ -56,3 +56,11 @@ p {
     margin-right: auto;
     width: 50%;
     }
+li {
+    color: #98FFE4;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 2px;
+    font-family: cursive;
+    text-align: center;
+}
