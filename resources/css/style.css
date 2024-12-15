@@ -6,6 +6,7 @@ h1 {
     color: #000000;
     font-weight: 800;
     font-family: cursive;
+    text-align: center;
     }
     
 h2 {
@@ -13,6 +14,7 @@ h2 {
     color: #000000;
     font-weight: 700;
     font-family: cursive;
+    text-align: center;
     }
     
 h3 {
@@ -20,6 +22,7 @@ h3 {
     color: #000000;
     font-weight: 600;
     font-family: cursive;
+    text-align: center;
     }
 
 h4 {
@@ -27,6 +30,7 @@ h4 {
     color: #000000;
     font-weight: 600;
     font-family: cursive;
+    text-align: center;
     }
     
     /* todo:  see if I can make the buttons round */
@@ -37,12 +41,14 @@ a {
     font-weight: 500;
     padding: 2px;
     font-family: cursive;
+    text-align: center;
     }
 p {
     color: #000000;
     text-decoration: none;
     font-weight: 500;
     font-family: cursive;
+    text-align: center;
     }
 .center {
     display: block;
