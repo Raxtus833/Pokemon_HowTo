@@ -2,10 +2,11 @@
     background-color: #FFFEDB;
 }
 h1 {
+    background-color: #FFFDAB;
     font-size: 2.5rem;
     color: #000000;
     font-weight: 800;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
     
@@ -13,7 +14,7 @@ h2 {
     font-size: 2rem;
     color: #000000;
     font-weight: 700;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
     
@@ -21,7 +22,7 @@ h3 {
     font-size: 1.5rem;
     color: #000000;
     font-weight: 600;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
 
@@ -29,25 +30,25 @@ h4 {
     font-size: 1.5rem;
     color: #000000;
     font-weight: 600;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
     
     /* todo:  see if I can make the buttons round */
 
 a {
-    color: #98FFE4;
+    color: #608EEA;
     text-decoration: underline;
     font-weight: 500;
     padding: 2px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
 p {
     color: #000000;
     text-decoration: none;
     font-weight: 500;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     }
 .center {
@@ -61,10 +62,10 @@ li {
     text-decoration: none;
     font-weight: 500;
     padding: 2px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 img {
     height: auto;
-    width: 50px;
+    width: 225px;
 }
