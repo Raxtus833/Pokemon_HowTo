@@ -37,7 +37,7 @@ h4 {
 
 a {
     color: #98FFE4;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: 500;
     padding: 2px;
     font-family: cursive;
