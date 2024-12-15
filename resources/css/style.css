@@ -44,3 +44,9 @@ p {
     font-weight: 500;
     font-family: cursive;
     }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
