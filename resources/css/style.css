@@ -8,7 +8,8 @@ h1 {
     font-weight: 800;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: 0 auto;
     }
     
 h2 {
@@ -17,7 +18,8 @@ h2 {
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: 0 auto;
     }
     
 h3 {
@@ -26,7 +28,8 @@ h3 {
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: 0 auto;
     }
 
 h4 {
@@ -35,7 +38,8 @@ h4 {
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    margin: 0 auto;
     }
 
 a {
@@ -48,10 +52,12 @@ a {
     border: 5px outset #FFFB79;
     border-radius: 5px;
     transition-duration: 1s;
+    margin: 0 auto;
     }
 a:hover {
         background-color: #FFFB79;
         border: 5px outset#FCF841;
+        margin: 0 auto;
         }
 p {
     color: #000000;
@@ -59,11 +65,11 @@ p {
     font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    margin: 0 auto;
     }
 .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     }
 li {
     color: #000000;
@@ -72,10 +78,12 @@ li {
     padding: 2px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    margin: 0 auto;
 }
 img {
     height: auto;
     width: 225px;
+    margin: 0 auto;
 }
 /*.center-links {
     text-align: center;
