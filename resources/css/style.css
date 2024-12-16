@@ -1,6 +1,11 @@
 *{
     background-color: #FFFEDB;
 }
+/*@media only screen and (max-width: 760px){
+    h1{
+        display:none
+    }
+}*/
 h1 {
     background-color: #FFFDAB;
     font-size: 2.5rem;
