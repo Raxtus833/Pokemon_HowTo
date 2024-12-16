@@ -12,9 +12,10 @@ h1 {
     margin: 0 auto;
     width: 90%;
     /*linear-gradient: (to right, #FFFDAB, #FEFA58); go over with farter */
-    opacity: 60%;
-    z-index: 1;
-    position: fixed;
+   /* opacity: 60%;*/
+    /*z-index: 1;*/
+    /*position: fixed;*/
+    display: flex;
     }
     
 h2 {
@@ -76,9 +77,10 @@ p {
     text-align: center;
     margin: 0 auto;
     padding: 10px
+    display: flex;
     }
 .center {
-    display: block;
+    display: flex;
     margin: 0 auto;
     }
 li {
@@ -99,6 +101,3 @@ img {
     padding: 10px;
     border-radius: 5px;
 }
-/*.center-links {
-    text-align: center;
-}*/
