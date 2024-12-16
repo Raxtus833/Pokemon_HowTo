@@ -58,6 +58,7 @@ a:hover {
         background-color: #FFFB79;
         border: 5px outset#FCF841;
         margin: 0 auto;
+        padding: 10px;
         }
 p {
     color: #000000;
@@ -66,6 +67,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     margin: 0 auto;
+    padding: 10px;
     }
 .center {
     display: block;
@@ -86,6 +88,8 @@ img {
     height: auto;
     width: 225px;
     margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
 }
 /*.center-links {
     text-align: center;
