@@ -11,7 +11,9 @@ h1 {
     padding: 20px;
     margin: 0 auto;
     width: 90%;
-    /*linear-gradient: (to right, #FFFDAB, #FEFA58); */
+    /*linear-gradient: (to right, #FFFDAB, #FEFA58); go over with farter */
+    opacity: 60%;
+    /*z-index: 6;*/
     }
     
 h2 {
